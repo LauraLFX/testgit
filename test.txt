@@ -1,1 +1,6 @@
 Mi primera prueba de GiT con Nano
+
+Test #1
+Test #2
+
+Modificando mi primer commit para un nuevo commit
